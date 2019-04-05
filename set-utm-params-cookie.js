@@ -8,7 +8,8 @@ var utmCookie = {
             "utm_term",
             "utm_content",
             "gclid",
-          	"msclkid"
+            "fbclid",
+            "msclkid"
         ],
         cookieExpiryDays: 365,
         // Original Source From http://www.quirksmode.org/js/cookies.html
